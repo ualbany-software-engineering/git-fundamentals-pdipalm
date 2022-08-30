@@ -1,0 +1,2 @@
+# About me
+Hi everyone, my name is Peter and I'm from Westchester, NY. I'm currently in my final semester of my comp sci B.S. at UAlbany. I spent the summer doing a software development internship in Clifton Park, NY (About 20-30 minutes north of Albany), so I already feel comfortable with git and some software development. Some of my software skills include: Java, C, C++, Python, SQL, React JS, TypeScript, HTML/CSS, and PHP. In my free time I enjoy watching sports, playing video games and goofing off with friends.
